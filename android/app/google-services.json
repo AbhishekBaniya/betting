@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "496031648674",
+    "firebase_url": "https://test-nextera-default-rtdb.firebaseio.com",
+    "project_id": "test-nextera",
+    "storage_bucket": "test-nextera.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496031648674:android:d6b8b8acec29afee0800fb",
+        "android_client_info": {
+          "package_name": "com.nexteragroup.salesbetting.salesbetting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496031648674-pdulcb27o612nde9ebta8n632j8s4998.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCotoOEjpXsJWnaPR_qW1SguUbE751splI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496031648674-pdulcb27o612nde9ebta8n632j8s4998.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "496031648674-g5mkra5oq4dhaan2ntrpvoc3l5n4rna6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nexteragroup.salesbetting.salesbetting"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
